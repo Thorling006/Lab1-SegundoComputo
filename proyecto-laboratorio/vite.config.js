@@ -6,7 +6,7 @@ import vueDevTools from 'vite-plugin-vue-devtools'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: 'https://eroch1.github.io/Lab2-SegundoComputo',
+  base: '/Lab2-SegundoComputo/',
   plugins: [
     vue(),
     vueDevTools(),
